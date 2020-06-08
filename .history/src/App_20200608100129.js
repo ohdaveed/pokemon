@@ -1,7 +1,7 @@
 import React from 'react';
 
 import PokemonsList from "./PokemonsList";
-import Pokedex from "./Pokedex";
+import CapturedPokemon from "./CapturedPokemon";
 
 const App = () => (
   <div className="App">
